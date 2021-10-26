@@ -1,0 +1,66 @@
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.exe
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.deps.json
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.runtimeconfig.json
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.runtimeconfig.dev.json
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.dll
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\ref\isp2281337 v.5 01.01.dll
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.pdb
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.csproj.AssemblyReference.cache
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01_MarkupCompile.cache
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01_MarkupCompile.lref
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.g.resources
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.AssemblyInfoInputs.cache
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.AssemblyInfo.cs
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.dll
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\ref\isp2281337 v.5 01.01.dll
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.pdb
+C:\Users\ИСП-34\Desktop\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.genruntimeconfig.cache
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.exe
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.deps.json
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.runtimeconfig.json
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.runtimeconfig.dev.json
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.dll
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\ref\isp2281337 v.5 01.01.dll
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.pdb
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.csprojAssemblyReference.cache
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\App.g.cs
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01_MarkupCompile.cache
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01_MarkupCompile.lref
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\MainWindow.baml
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.g.resources
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.GeneratedMSBuildEditorConfig.editorconfig
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.AssemblyInfoInputs.cache
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.AssemblyInfo.cs
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.csproj.CoreCompileInputs.cache
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.dll
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\ref\isp2281337 v.5 01.01.dll
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.pdb
+F:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.genruntimeconfig.cache
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.exe
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.deps.json
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.runtimeconfig.json
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.runtimeconfig.dev.json
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.dll
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\ref\isp2281337 v.5 01.01.dll
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\bin\Debug\net5.0-windows\isp2281337 v.5 01.01.pdb
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.csproj.AssemblyReference.cache
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\App.g.cs
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01_MarkupCompile.cache
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01_MarkupCompile.lref
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\MainWindow.baml
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.g.resources
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.GeneratedMSBuildEditorConfig.editorconfig
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.AssemblyInfoInputs.cache
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.AssemblyInfo.cs
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.csproj.CoreCompileInputs.cache
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.dll
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\ref\isp2281337 v.5 01.01.dll
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.pdb
+E:\III курс\МДК 01.01 (РПМ)\Работы\isp2281337 v.5 01.01\isp2281337 v.5 01.01\obj\Debug\net5.0-windows\isp2281337 v.5 01.01.genruntimeconfig.cache
