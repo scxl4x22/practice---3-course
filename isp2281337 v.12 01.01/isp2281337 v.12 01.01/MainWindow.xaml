@@ -53,9 +53,12 @@
                 <Grid>
                     <GroupBox Header="Исходные данные" Margin="-1,-1,187,46">
                         <Grid>
-                            <TextBox x:Name="inputSideA" HorizontalAlignment="Left" Margin="7,12,0,0" Style="{StaticResource placeHolder}" Tag="Сторона А" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="20" PreviewKeyDown="input_PreviewKeyDown" KeyDown="input_KeyDown"/>
-                            <TextBox x:Name="inputSideB" HorizontalAlignment="Left" Margin="7,37,0,0" Style="{StaticResource placeHolder}" Tag="Сторона B" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="20" PreviewKeyDown="input_PreviewKeyDown" KeyDown="input_KeyDown"/>
-                            <TextBox x:Name="inputSideC" HorizontalAlignment="Left" Margin="7,62,0,0" Style="{StaticResource placeHolder}" Tag="Сторона C" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="20" PreviewKeyDown="input_PreviewKeyDown" KeyDown="input_KeyDown"/>
+                            <TextBox x:Name="inputSideA" HorizontalAlignment="Left" Margin="7,12,0,0" Style="{StaticResource placeHolder}" Tag="Сторона А" 
+                                TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="20" PreviewKeyDown="input_PreviewKeyDown" KeyDown="input_KeyDown" TextChanged="inputSide_TextChanged"/>
+                            <TextBox x:Name="inputSideB" HorizontalAlignment="Left" Margin="7,37,0,0" Style="{StaticResource placeHolder}" Tag="Сторона B" 
+                                TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="20" PreviewKeyDown="input_PreviewKeyDown" KeyDown="input_KeyDown" TextChanged="inputSide_TextChanged"/>
+                            <TextBox x:Name="inputSideC" HorizontalAlignment="Left" Margin="7,62,0,0" Style="{StaticResource placeHolder}" Tag="Сторона C" 
+                                     TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="20" PreviewKeyDown="input_PreviewKeyDown" KeyDown="input_KeyDown" TextChanged="inputSide_TextChanged"/>
                             <Button x:Name="getVolume" Content="Найти объем" HorizontalAlignment="Left" Margin="7,93,0,0" VerticalAlignment="Top" Width="135" Click="getVolume_Click"/>
                             <Button x:Name="getArea" Content="Найти площадь" HorizontalAlignment="Left" Margin="7,123,0,0" VerticalAlignment="Top" Width="135" Click="getArea_Click"/>
                         </Grid>
@@ -81,7 +84,8 @@
                 <Grid>
                     <GroupBox Header="Исходные данные" Margin="7,-1,162,81">
                         <Grid>
-                            <TextBox x:Name="inputTwoDigitNumber" Margin="129,8,14,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" MaxLength="2" PreviewKeyDown="input_PreviewKeyDown" KeyDown="input_KeyDown"/>
+                            <TextBox x:Name="inputTwoDigitNumber" Margin="129,8,14,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20"
+                                     MaxLength="2" PreviewKeyDown="input_PreviewKeyDown" KeyDown="input_KeyDown" TextChanged="inputDigit_TextChanged"/>
                             <TextBlock HorizontalAlignment="Left" Margin="19,8,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20"><Run Language="ru-ru" Text="Двузначное число: "/></TextBlock>
                             <Button x:Name="getProduct" Content="Произведение " HorizontalAlignment="Left" Margin="17,33,0,0" VerticalAlignment="Top" Width="147" Click="getProduct_Click"/>
                             <Button x:Name="getSum" Content="Сумма" HorizontalAlignment="Left" Margin="16,63,0,0" VerticalAlignment="Top" Width="148" Click="getSum_Click"/>
@@ -91,8 +95,10 @@
                         <Grid>
                             <TextBlock HorizontalAlignment="Center" Margin="0,3,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="20"><Run Language="ru-ru" Text="Произведение цифр: "/></TextBlock>
                             <TextBlock HorizontalAlignment="Left" Margin="9,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20"><Run Language="ru-ru" Text="Сумма цифр: "/></TextBlock>
-                            <TextBox x:Name="outputProduct" HorizontalAlignment="Left" Margin="9,23,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" Height="20" IsReadOnly="True"/>
-                            <TextBox x:Name="outputSum" HorizontalAlignment="Left" Margin="9,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" Height="20" IsReadOnly="True"/>
+                            <TextBox x:Name="outputProduct" HorizontalAlignment="Left" Margin="9,23,0,0" TextWrapping="Wrap" 
+                                     VerticalAlignment="Top" Width="100" Height="20" IsReadOnly="True" />
+                            <TextBox x:Name="outputSum" HorizontalAlignment="Left" Margin="9,72,0,0" TextWrapping="Wrap" 
+                                     VerticalAlignment="Top" Width="100" Height="20" IsReadOnly="True" />
                         </Grid>
                     </GroupBox>
                     <!--<Image Margin="8,129,12,1" Stretch="Fill" ToolTip="ИВАН)))))">

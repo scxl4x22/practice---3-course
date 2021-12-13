@@ -149,5 +149,17 @@ namespace isp2281337_v._12_01._01
             if (secondTabItem.IsFocused)
                 taskNumber.Content = secondTabItem.Header;
         }
+
+        private void inputSide_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            outputArea.Clear();
+            outputVolume.Clear();
+        }
+
+        private void inputDigit_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            outputProduct.Clear();
+            outputSum.Clear();
+        }
     }
 }
