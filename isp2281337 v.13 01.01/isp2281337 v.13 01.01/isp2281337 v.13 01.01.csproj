@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>isp2281337_v._13_01._01</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="info.bmp" />
+    <None Remove="open.bmp" />
+    <None Remove="rofl.jpg" />
+    <None Remove="save.bmp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WpfLibrary1\LibMatrix.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="info.bmp" />
+    <Resource Include="open.bmp" />
+    <Resource Include="rofl.jpg" />
+    <Resource Include="save.bmp" />
+  </ItemGroup>
+
+</Project>
